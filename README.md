@@ -1,4 +1,4 @@
-### Currentlt a CSIE student at Yunlin University 👋
+### Currently a CSIE student at National Yunlin University of Science and Technology 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IChKEInDEUTSCH&layout=compact&theme=gruvbox)](https://github.com/IChKEInDEUTSCH/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IChKEInDEUTSCH&theme=gruvbox)](https://github.com/IChKEInDEUTSCH/github-readme-stats)
